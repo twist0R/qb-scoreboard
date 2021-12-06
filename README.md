@@ -8,7 +8,7 @@
 * [GitHub Profile](https://github.com/kurat420)
 
 # Installation
-* **just put in your server.cfg " ensure qb-scoreboard**
+* **just put in your server.cfg " ensure qb-scoreboard "**
 
 # Issues and Suggestions
 Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion.
