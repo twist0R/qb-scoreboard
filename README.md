@@ -1,4 +1,4 @@
-![kurat420-qb-scoreboard](https://forum.cfx.re/uploads/default/original/4X/f/6/b/f6bac3f89493570ff9e81398f525b895401ada58.jpeg)
+![kurat420-qb-scoreboard](https://cdn.discordapp.com/attachments/881955889861509120/972900525651677194/unknown.png)
 # 🤶🎄 kurat420 QBUS SCOREBOARD Script converted to ESX
 <br> Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out <br>
 
